@@ -2,6 +2,8 @@
 
 This project is a web application built with FastAPI and TensorFlow for classifying tomato diseases based on uploaded images. Users can upload an image of a tomato plant leaf, and the application will provide a prediction of the disease class along with a confidence score.
 
+![Screenshot (6)](https://github.com/Deekshithrai/tomato-disease-classification-/assets/144473857/186e9a1e-c03d-495d-8900-eb43b60b2da4)
+
 ## Prerequisites
 
 Before running the application, ensure that you have the following dependencies installed:
